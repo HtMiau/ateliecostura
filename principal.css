@@ -434,8 +434,17 @@ footer{
     
  }
 
+ #textos2 h1{
+  width: 300px;
+  font-size: 40px;
+  margin-left: 5px;
+ }
+
  #textos2 p{
+    width: 300px;
     font-size: 20px;
+    margin-left: 5px;
+    margin-top: 10px;
  }
 
   #imgdourado {
