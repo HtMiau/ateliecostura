@@ -435,13 +435,13 @@ footer{
  }
 
  #textos2 h1{
-  width: 300px;
+  width: 100%;
   font-size: 40px;
-  margin-left: 5px;
+  margin-left: 30px;
  }
 
  #textos2 p{
-    width: 350px;
+    width: 100%;
     font-size: 20px;
     margin-left: 20px;
     margin-top: 10px;
